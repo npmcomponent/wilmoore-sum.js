@@ -1,7 +1,7 @@
 // expose `sum`
 module.exports = sum;
 
-var selectn  = require('selectn');
+var selectn  = require('wilmoore-selectn');
 var toString = ({}).toString;
 
 /**

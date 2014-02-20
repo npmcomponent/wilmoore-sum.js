@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [wilmoore/sum.js](http://github.com/wilmoore/sum.js). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/wilmoore-sum.js`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # sum.js [![Build Status](https://travis-ci.org/wilmoore/sum.js.png?branch=master)](https://travis-ci.org/wilmoore/sum.js) [![Build Status](https://david-dm.org/wilmoore/sum.js.png)](https://david-dm.org/wilmoore/sum.js) [![NPM version](https://badge.fury.io/js/sum.js.png)](http://badge.fury.io/js/sum.js)
 
   Sum a list of number literals, nested object property values, or values returned from a custom function for [Node.js][] and the browser.
